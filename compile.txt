@@ -1,0 +1,3 @@
+as -o test.o test.s
+objdump -d test.o | python makerom.py > file_rom.txt
+nano file_rom.txt

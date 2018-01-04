@@ -1,0 +1,17 @@
+v2.0 raw
+e3a0dc01 e24dd004 e3a00001 e58d0000 e24dd004 e3a00002 e58d0000 e24dd004
+e3a00003 e58d0000 e24dd004 e3a00004 e58d0000 e24dd004 e3a00005 e58d0000
+e1a0000d //mov r0, sp
+e3a01005 //mov r1, #5
+eb000000 //bl
+eafffffe 
+e3a02000 // mov r2, #0
+e3a03000 // mov r3, #0
+e1520001 // cmp r2, r1
+0a000004 // beq
+e5904000 // ldr
+e0833004 e2822001 
+ e2800004 
+eafffff8 // b loop
+e1a00003 
+e12fff1e // bx lr 
