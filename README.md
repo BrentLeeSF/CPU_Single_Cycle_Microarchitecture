@@ -49,22 +49,19 @@ Here are SOME pictures of the structures I made of the CPU
 
 CPU
 ![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/CPU.png)
+
 Control Unit
 ![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/ControlUnit.png)
+
 Decoder
 ![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/Decoder.png)
-Main Decoder
-![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/MainDecoder.png)
-ALU Decoder
-![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/ALU_Decoder.png)
+
 Condition Logic
 ![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/ConditionLogic.png)
-Condition Check
-![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/ConditionCheck.png)
+
 Register File
 ![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/RegFile.png)
-ALU
-![alt text](https://github.com/BrentLeeSF/CPU_Single_Cycle_Microarchitecture/blob/master/CPU_Pics/ALU.png)
+
 
 
 
